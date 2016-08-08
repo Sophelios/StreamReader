@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderClssWrk\StreamReaderClssWrk\bin\Debug\StreamReaderClssWrk.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderClssWrk\StreamReaderClssWrk\bin\Debug\StreamReaderClssWrk.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderClssWrk\StreamReaderClssWrk\bin\Debug\StreamReaderClssWrk.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderClssWrk\StreamReaderClssWrk\obj\Debug\StreamReaderClssWrk.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderClssWrk\StreamReaderClssWrk\obj\Debug\StreamReaderClssWrk.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderClssWrk\StreamReaderClssWrk\obj\Debug\StreamReaderClssWrk.pdb
